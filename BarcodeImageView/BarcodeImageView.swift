@@ -1,6 +1,5 @@
 //
 //  BarcodeImageView.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 31/05/2023.
 //
