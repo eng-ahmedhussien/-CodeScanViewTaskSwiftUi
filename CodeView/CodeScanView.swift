@@ -1,6 +1,5 @@
 //
 //  CodeScannerView.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 25/05/2023.
 //
